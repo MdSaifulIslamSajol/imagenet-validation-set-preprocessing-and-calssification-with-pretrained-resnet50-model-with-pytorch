@@ -19,3 +19,4 @@ the validation images need to be set in subfolders inorder to work with torchvis
 7. All subfolders will be put inside a parent folder named "val_subfolders".
 8. For every other run you should delete the "val_subfolders" folder first created by previous run.
 
+![accuracy output](https://user-images.githubusercontent.com/58707947/169703612-f97f643c-d9d7-4c00-91a0-8fe8dbdd3b3a.jpg)
