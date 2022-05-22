@@ -5,9 +5,9 @@ number of classes=1000
 As discussed here https://discuss.pytorch.org/t/filenotfounderror-couldnt-find-any-class-folder/138578/3 
 the validation images need to be set in subfolders inorder to work with torchvision.datasets.ImageFolder.
 1. The main files are: 
-    # ILSVRC2012_img_val.rar ( download the validation set) 
-    # ILSVRC2012_devkit_t12.tar.
-    # ILSVRC (comes with 155GB package)
+    ### ILSVRC2012_img_val.rar ( download the validation set) 
+    ### ILSVRC2012_devkit_t12.tar.
+    ### ILSVRC (comes with 155GB package)
     
 2. Download them from Imagenet 2012 dataset server
 3. Extract all files.
